@@ -1,5 +1,5 @@
 <h1>Analysis of Protein Complexes and Ovarian Cancer</h1>
-This directory includes code and files for the analysis of the role of disrupted protein complexes in ovarian cancer.
+This directory includes code and files for the analysis of the role of disrupted protein complexes in cancer.
 
 <h2>Jupyter Notebooks</h2>
 
